@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome 👋. I'm python developer from Belarus. I code in Django, Flask and some frontend frameworks.
 
 <!--
 **Chudopal/Chudopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
